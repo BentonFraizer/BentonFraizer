@@ -36,6 +36,6 @@
 
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=bentonfraizer&show_icons=true&locale=en&layout=compact" alt="bentonfraizer" /></p>
 
-[![linkedin]: https://www.linkedin.com/in/yuri-lopukhin
+[linkedin]: https://www.linkedin.com/in/yuri-lopukhin
 [whatsapp]: https://wa.me/79143510358
 [telegram]: https://t.me/Benton_Fraizer
