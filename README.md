@@ -18,7 +18,6 @@
      <img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white"/>
  </a>
 </p>
-</br>
 
 <p align="center">
   <a href="https://www.codewars.com/" target="blank"><img alt="codewars" src="https://www.codewars.com/users/FOLIAM/badges/small?theme=light"></a>
