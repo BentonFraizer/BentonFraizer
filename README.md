@@ -20,7 +20,6 @@
 </p>
 </br>
 
-
 <p align="center">
   <a href="https://www.codewars.com/" target="blank"><img alt="codewars" src="https://www.codewars.com/users/FOLIAM/badges/small?theme=light"></a>
 </p>
