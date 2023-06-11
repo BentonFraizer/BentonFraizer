@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Yuri</h1>
-<h3 align="center">frontend developer</h3>
+<h2 align="center">frontend developer</h2>
 <img align="right" alt="coding" width="400" src="https://c.tenor.com/2uyENRmiUt0AAAAC/coding.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=bentonfraizer&label=Profile%20views&color=0e75b6&style=flat" alt="bentonfraizer" /> </p>
