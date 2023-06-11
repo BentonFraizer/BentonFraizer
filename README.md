@@ -8,15 +8,18 @@
 - 📫 How to reach me **yurilopukhin1989@gmail.com**
 
 ---
-<h3 align="left">Connect with me:</h3>
+<h3 align="center">Connect with me:</h3>
 <a href="https://linkedin.com/in/yuri-lopukhin" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="yuri-lopukhin" height="40" width="40" /></a>
 <a href="https://t.me/Benton_Fraizer" target="blank"><img align="center" src="https://img.icons8.com/fluency/48/000000/telegram-app.png" alt="savorskaya" height="40" width="40" /></a>
 <a href="https://api.whatsapp.com/send/?phone=79143510358&text&type=phone_number&app_absent=0" target="blank"><img align="center" src="https://img.icons8.com/color/48/000000/whatsapp.png" alt="savorskaya" height="40" width="40" /></a>
 
+</br>
+</br>
+
 <a href="https://www.codewars.com/" target="blank"><img alt="codewars" src="https://www.codewars.com/users/FOLIAM/badges/small?theme=light"></a>
 
 ---
-<h3 align="left">Languages and Tools:</h3>
+<h3 align="center">Languages and Tools:</h3>
 
 <p align="left"> 
 <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> 
