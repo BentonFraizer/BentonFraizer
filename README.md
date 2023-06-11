@@ -16,7 +16,6 @@
 <a href="https://api.whatsapp.com/send/?phone=79143510358&text&type=phone_number&app_absent=0" target="blank"><img align="center" src="https://img.icons8.com/color/48/000000/whatsapp.png" alt="savorskaya" height="40" width="40" /></a>
 </p>
 </br>
-</br>
 
 <p align="center">
 <a href="https://www.codewars.com/" target="blank"><img alt="codewars" src="https://www.codewars.com/users/FOLIAM/badges/small?theme=light"></a>
