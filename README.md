@@ -9,11 +9,9 @@
 
 ---
 <h3 align="left">Connect with me:</h3>
-<p align="left">
 [<img align="left" alt="BentonFraizer | LinkedIn" width="40px" src="https://img.icons8.com/color/48/000000/linkedin-2--v1.png" />][linkedin]
 [<img align="left" alt="BentonFraizer | Telegram" width="40px" src="https://img.icons8.com/fluency/48/000000/telegram-app.png" />][telegram]
 [<img align="left" alt="BentonFraizer | WhatsApp" width="40px" src="https://img.icons8.com/color/48/000000/whatsapp.png" />][whatsapp]
-</p>
 
 <a href="https://www.codewars.com/" target="blank"><img alt="codewars" src="https://www.codewars.com/users/FOLIAM/badges/small?theme=light"></a>
 
@@ -38,6 +36,6 @@
 
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=bentonfraizer&show_icons=true&locale=en&layout=compact" alt="bentonfraizer" /></p>
 
-[linkedin]: https://www.linkedin.com/in/yuri-lopukhin
+[![linkedin]: https://www.linkedin.com/in/yuri-lopukhin
 [whatsapp]: https://wa.me/79143510358
 [telegram]: https://t.me/Benton_Fraizer
