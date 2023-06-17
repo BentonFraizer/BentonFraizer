@@ -4,7 +4,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=bentonfraizer&label=Profile%20views&color=0e75b6&style=flat" alt="bentonfraizer" /> </p>
 
-- 💬 Ask me about **react, css, dota the second**
+- 💬 Ask me about **React, CSS, CS 1.6**
 
 - 📫 How to reach me **yurilopukhin1989@gmail.com**
 
