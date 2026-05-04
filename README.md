@@ -44,23 +44,3 @@
   <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white" />
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
 </p>
-
-
-<img src="https://raw.githubusercontent.com/bentonfraizer/bentonfraizer/master/github-metrics.svg" />
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=bentonfraizer&theme=default&hide_border=true" alt="GitHub Streak" />
-</p>
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=bentonfraizer&hide_border=true" alt="Activity Graph" />
-</p>
-
-<h3 align="center">GitHub Stats</h3>
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/bentonfraizer/bentonfraizer/master/profile-summary-card-output/github/0-profile-details.svg" />
-</p>
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/bentonfraizer/bentonfraizer/master/profile-summary-card-output/github/1-repos-per-language.svg" />
-  <img src="https://raw.githubusercontent.com/bentonfraizer/bentonfraizer/master/profile-summary-card-output/github/2-most-commit-language.svg" />
-</p>
