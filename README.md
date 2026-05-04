@@ -47,8 +47,5 @@
 
 
 <p align="center">
-  <img
-    src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=bentonfraizer&layout=compact&langs_count=8&hide_border=true"
-    alt="Top Languages"
-  />
+  [![Top Langs](https://vercel.app)](https://github.com)
 </p>
